@@ -13,11 +13,11 @@ var image2=document.querySelectorAll("img")[1];
 image2.setAttribute("src",right);
 if(r1>r2)
 {
-    document.querySelector('h1').innerHTML="Plyer1 wins !!! 🎉🎊🎊";
+    document.querySelector('h1').innerHTML="Player 1 wins !!! 🎉🎊🎊";
 }
 else if(r2>r1)
 {
-    document.querySelector('h1').innerHTML="Plyer2 wins !!! 🎉🎊🎊";
+    document.querySelector('h1').innerHTML="Player2 wins !!! 🎉🎊🎊";
 
 }
 else 
